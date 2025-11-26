@@ -1,0 +1,5 @@
+{
+  "name": "SemBuddy",
+  "description": "An all-in-one companion for engineering students to track attendance, calculate marks, and view syllabus.",
+  "requestFramePermissions": []
+}
